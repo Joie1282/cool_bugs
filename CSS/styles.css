@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+}
+h3 {
+  color: turquoise;
+}
+ul li {
+  background-color: pink;
+}
+img {
+  align-items: center;
+}
+div.bugz {
+  border: 7px black;
+}
